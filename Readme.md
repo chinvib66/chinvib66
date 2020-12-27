@@ -2,9 +2,9 @@
 
 Hello there! Thanks for visiting😊
 
-I am Chinmay Vibhute, a Pre-Final Year Undergraduate Student of Indian Institute of Technology, Kharagpur, pursuing my Dual Degree(B.Tech + M.Tech) in Mechanical Engineering. (I am a developer though...)
+I am Chinmay Vibhute, a Pre-Final Year Undergraduate Student of Indian Institute of Technology, Kharagpur, pursuing my Dual Degree(B.Tech + M.Tech) in Mechanical Engineering. A Developer in the works, and a DL begineer & enthusiast. 
 
-I actively compete on [Topcoder](topcoder.com/members/chinvib66/) and started recently on Kaggle.
+I actively compete on [Topcoder](topcoder.com/members/chinvib66/) and started recently on Kaggle. I have also worked on few freelance Software Development projects with [Avenoir.ai](https://www.avenoir.ai/).
 
 <section id='stats'>
 
@@ -13,8 +13,3 @@ I actively compete on [Topcoder](topcoder.com/members/chinvib66/) and started re
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chinvib66&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </section>
-
-### Current WIP Projects:
-
-- Sequelize Generate Migrations: Automatically Generate Migration Files from Sequelize Models
-- React / React Native Custom Boilerplates(Private): Custom Scalable Starter Boilerplates for React / React Native Projects in both TypeScript and Javascript (mostly for Topcoder challenges)
