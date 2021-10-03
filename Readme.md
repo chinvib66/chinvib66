@@ -1,6 +1,6 @@
 # Chinmay Vibhute
 
-Hello there! Thanks for visiting😊
+Hello there! Thanks for visiting😊 More Info on https://chinmayvib.dev
 
 I am Chinmay Vibhute, a Final Year Student of Indian Institute of Technology, Kharagpur, pursuing my Dual Degree(B.Tech + M.Tech) in Mechanical Engineering. A Developer in the works, and a DL begineer & enthusiast. 
 
